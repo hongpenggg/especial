@@ -1,0 +1,72 @@
+.top-image {
+    width: 10%; 
+    height: 10%; 
+    text-align: left;
+    margin-left: 2%;
+}
+
+.link-block {
+    display: inline-block;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 5%;
+    margin-right: 4%;
+}
+
+.link-text {
+    font-weight: 700; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-decoration: none; 
+    color: black;
+}
+
+.link-text:hover {
+    color: #ff0000;
+}
+
+.question-text {
+    margin-top: 10%;
+    font-size: 200%;
+    font-weight: 700; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-decoration: none; 
+    text-align: center;
+    color: black;
+}
+
+.question-text:hover {
+    color: #ff0000;
+}
+
+.answer {
+    text-align: center;
+}
+
+.hahah {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.img-yes {
+    text-align: center;
+}
+
+.header1yes, .header2yes {
+    text-align: center;
+}
+
+.backfromyes, .backfromyesbtn {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.rechoice {
+    margin-top: 10%;
+    text-align: center;
+}
